@@ -1,0 +1,3 @@
+[submodule "group-activity/morning"]
+	path = group-activity/morning
+	url = https://github.com/swostikl/Week1-Scrum.git
